@@ -1,6 +1,6 @@
 # DelphiBasics2!
 
-##Description:
+## Description:
 
 Ad, soyad, vize notu ve final notu girişi yapılabilen tablo.
 Girilen verileri import ve export etmemizi sağlayan uygulama.
